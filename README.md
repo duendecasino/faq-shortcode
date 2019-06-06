@@ -15,3 +15,9 @@ Here is how you see the results of frequently asked questions in the search usin
 <a href="https://casinoduende.com/casinos-online/luckia-casino/">FAQ Demo 1</a>
 
 <a href="https://casinosfortune.com/reviews/bitstarz-casino/">FAQ Demo 2</a>
+
+Now you can use the following abbreviated code to display custom template page:
+
+
+<h2>Title FAQ</h2>
+[su_faq][su_spoilerfaq title="Question title" icon="plus-circle"]Response text[/su_spoilerfaq][/su_faq]
